@@ -2,7 +2,7 @@
 
 This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ printer.  My goal was to use most of the Ender 3 components while maintaining the core Voron design look and feel.
 
-![Home](Images/SN049.png)
+![Home](Images/SN049.jpg)
 ![Home](Images/Home.png)
 ![Home](Images/Bottom.png)
 ![Home](Images/Top.png)
