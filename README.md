@@ -87,8 +87,8 @@ This mod uses a combination of original Switchwire and modified parts.  Most of 
 	- y_axis_bed_carriage
 		
 6.	Misc:
-	- 2020_rail_tool 
-	- 4040_rail_tool
+	- 2020_MGN12_guide_x2.stl **
+	- 4040_rail_tool 
 
 ** Denotes STL files that have not been modified from the baseline Switchwire design and are located in the Switchwire repository
 
